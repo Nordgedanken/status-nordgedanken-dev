@@ -10,6 +10,8 @@ sites:
     url: https://nightly.fdroid.fluffychat.im/
   - name: Matrix Server
     url: https://matrix.nordgedanken.dev
+  - name: Funkwhale
+    url: https://audio.nordgedanken.dev
 
 status-website:
   cname: status.nordgedanken.dev
