@@ -58,17 +58,17 @@
     "url": "https://audio.nordgedanken.dev",
     "icon": "https://favicons.githubusercontent.com/audio.nordgedanken.dev",
     "slug": "funkwhale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 810,
-    "timeDay": 810,
-    "timeWeek": 810,
-    "timeMonth": 810,
-    "timeYear": 810,
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   }
 ]
