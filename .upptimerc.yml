@@ -24,11 +24,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-workflowSchedule:
-  graphs: "*/33 * * * *"
-  responseTime: "*/22 * * * *"
-  staticSite: "*/11 * * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
