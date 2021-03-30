@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 924,
-    "timeDay": 924,
-    "timeWeek": 924,
-    "timeMonth": 924,
-    "timeYear": 924,
+    "time": 902,
+    "timeDay": 902,
+    "timeWeek": 902,
+    "timeMonth": 902,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1128,
-    "timeDay": 1128,
-    "timeWeek": 1128,
-    "timeMonth": 1128,
-    "timeYear": 1128,
+    "time": 1122,
+    "timeDay": 1122,
+    "timeWeek": 1122,
+    "timeMonth": 1122,
+    "timeYear": 1122,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1212,
-    "timeDay": 1212,
-    "timeWeek": 1212,
-    "timeMonth": 1212,
-    "timeYear": 1212,
+    "time": 1182,
+    "timeDay": 1182,
+    "timeWeek": 1182,
+    "timeMonth": 1182,
+    "timeYear": 1182,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/audio.nordgedanken.dev",
     "slug": "funkwhale",
     "status": "up",
-    "uptime": "60.08%",
-    "uptimeDay": "60.08%",
-    "uptimeWeek": "60.08%",
-    "uptimeMonth": "60.08%",
-    "uptimeYear": "60.08%",
-    "time": 585,
-    "timeDay": 585,
-    "timeWeek": 585,
-    "timeMonth": 585,
-    "timeYear": 585,
+    "uptime": "56.45%",
+    "uptimeDay": "56.45%",
+    "uptimeWeek": "56.45%",
+    "uptimeMonth": "56.45%",
+    "uptimeYear": "56.45%",
+    "time": 578,
+    "timeDay": 578,
+    "timeWeek": 578,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {
-      "2021-03-30": 26
+      "2021-03-30": 31
     }
   }
 ]
