@@ -12,6 +12,8 @@ sites:
     url: https://matrix.nordgedanken.dev
   - name: Funkwhale
     url: https://audio.nordgedanken.dev
+  - name: Gitlab
+    url: https://git.nordgedanken.dev
 
 status-website:
   cname: status.nordgedanken.dev
