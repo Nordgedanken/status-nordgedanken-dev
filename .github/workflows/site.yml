@@ -10,7 +10,7 @@
 name: Static Site CI
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 1 * * *"
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
@@ -30,7 +30,7 @@ jobs:
         with:
           command: "site"
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
       - uses: peaceiris/actions-gh-pages@v3.7.3
         name: GitHub Pages Deploy
         with:
