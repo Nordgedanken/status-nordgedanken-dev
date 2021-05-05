@@ -1,7 +1,7 @@
 url: https://matrix.nordgedanken.dev
-status: up
-code: 200
-responseTime: 746
-lastUpdated: 2021-05-05T22:12:19.741Z
+status: down
+code: 502
+responseTime: 463
+lastUpdated: 2021-05-05T23:00:56.160Z
 startTime: Tue Mar 30 2021 21:40:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
