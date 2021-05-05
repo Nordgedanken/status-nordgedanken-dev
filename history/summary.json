@@ -4,7 +4,7 @@
     "url": "https://fdroid.fluffychat.im",
     "icon": "https://favicons.githubusercontent.com/fdroid.fluffychat.im",
     "slug": "fluffychat-fdroid-stable",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -22,7 +22,7 @@
     "url": "https://nightly.fdroid.fluffychat.im/",
     "icon": "https://favicons.githubusercontent.com/nightly.fdroid.fluffychat.im",
     "slug": "fluffychat-fdroid-nightly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1099,
     "timeDay": 1041,
     "timeWeek": 1199,
-    "timeMonth": 1133,
+    "timeMonth": 1134,
     "timeYear": 1099,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 934,
     "timeDay": 600,
     "timeWeek": 2641,
-    "timeMonth": 872,
+    "timeMonth": 874,
     "timeYear": 934,
     "dailyMinutesDown": {}
   },
@@ -66,7 +66,7 @@
     "uptimeYear": "99.94%",
     "time": 571,
     "timeDay": 441,
-    "timeWeek": 568,
+    "timeWeek": 571,
     "timeMonth": 576,
     "timeYear": 571,
     "dailyMinutesDown": {
@@ -78,7 +78,7 @@
     "url": "https://git.nordgedanken.dev",
     "icon": "https://favicons.githubusercontent.com/git.nordgedanken.dev",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +87,7 @@
     "time": 1013,
     "timeDay": 1300,
     "timeWeek": 1684,
-    "timeMonth": 1020,
+    "timeMonth": 1021,
     "timeYear": 1013,
     "dailyMinutesDown": {}
   }
