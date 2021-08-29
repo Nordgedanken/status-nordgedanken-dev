@@ -1,7 +1,7 @@
 url: https://nightly.fdroid.fluffychat.im/
-status: up
-code: 200
-responseTime: 1655
-lastUpdated: 2021-08-28T23:01:22.399Z
+status: down
+code: 503
+responseTime: 3609
+lastUpdated: 2021-08-29T22:21:55.995Z
 startTime: Tue Mar 30 2021 21:40:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
