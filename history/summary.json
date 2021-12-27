@@ -22,7 +22,7 @@
     "url": "https://nightly.fdroid.fluffychat.im/",
     "icon": "https://favicons.githubusercontent.com/nightly.fdroid.fluffychat.im",
     "slug": "fluffychat-fdroid-nightly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1132,
     "timeDay": 0,
     "timeWeek": 1291,
-    "timeMonth": 1329,
+    "timeMonth": 1335,
     "timeYear": 1132,
     "dailyMinutesDown": {}
   },
