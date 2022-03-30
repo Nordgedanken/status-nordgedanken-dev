@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 940,
-    "timeDay": 923,
-    "timeWeek": 969,
-    "timeMonth": 885,
+    "timeDay": 984,
+    "timeWeek": 946,
+    "timeMonth": 888,
     "timeYear": 940,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1149,
-    "timeDay": 1026,
-    "timeWeek": 955,
-    "timeMonth": 880,
+    "timeDay": 1755,
+    "timeWeek": 1017,
+    "timeMonth": 908,
     "timeYear": 1149,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 843,
-    "timeDay": 626,
-    "timeWeek": 811,
-    "timeMonth": 620,
-    "timeYear": 843,
+    "time": 842,
+    "timeDay": 633,
+    "timeWeek": 800,
+    "timeMonth": 621,
+    "timeYear": 842,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 568,
-    "dailyMinutesDown": {
-      "2021-03-30": 31
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gitlab",
