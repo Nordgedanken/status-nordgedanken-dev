@@ -4,7 +4,7 @@
     "url": "https://fdroid.fluffychat.im",
     "icon": "https://favicons.githubusercontent.com/fdroid.fluffychat.im",
     "slug": "fluffychat-fdroid-stable",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -32,7 +32,7 @@
     "timeDay": 893,
     "timeWeek": 1018,
     "timeMonth": 907,
-    "timeYear": 1152,
+    "timeYear": 1153,
     "dailyMinutesDown": {}
   },
   {
