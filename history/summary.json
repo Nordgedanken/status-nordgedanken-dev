@@ -76,17 +76,17 @@
     "url": "https://git.nordgedanken.dev",
     "icon": "https://favicons.githubusercontent.com/git.nordgedanken.dev",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 588,
-    "timeDay": 581,
-    "timeWeek": 750,
-    "timeMonth": 767,
-    "timeYear": 764,
+    "time": 591,
+    "timeDay": 737,
+    "timeWeek": 765,
+    "timeMonth": 771,
+    "timeYear": 767,
     "dailyMinutesDown": {}
   }
 ]
