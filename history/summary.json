@@ -13,8 +13,8 @@
     "time": 1094,
     "timeDay": 584,
     "timeWeek": 795,
-    "timeMonth": 804,
-    "timeYear": 1143,
+    "timeMonth": 810,
+    "timeYear": 1145,
     "dailyMinutesDown": {}
   },
   {
@@ -31,8 +31,8 @@
     "time": 1215,
     "timeDay": 610,
     "timeWeek": 837,
-    "timeMonth": 800,
-    "timeYear": 1231,
+    "timeMonth": 806,
+    "timeYear": 1234,
     "dailyMinutesDown": {}
   },
   {
@@ -76,16 +76,16 @@
     "url": "https://git.nordgedanken.dev",
     "icon": "https://favicons.githubusercontent.com/git.nordgedanken.dev",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 628,
+    "time": 588,
+    "timeDay": 581,
     "timeWeek": 750,
-    "timeMonth": 771,
+    "timeMonth": 767,
     "timeYear": 764,
     "dailyMinutesDown": {}
   }
