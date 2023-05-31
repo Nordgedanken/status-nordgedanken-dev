@@ -4,16 +4,12 @@ repo: status-nordgedanken-dev # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Fluffychat Fdroid Stable
-    url: https://fdroid.fluffychat.im
-  - name: Fluffychat Fdroid Nightly
-    url: https://nightly.fdroid.fluffychat.im/
   - name: Matrix Server
-    url: https://matrix.nordgedanken.dev
-  - name: Funkwhale
-    url: https://audio.nordgedanken.dev
-  - name: Gitlab
+    url: https://matrix.midnightthoughts.space
+  - name: Gitea
     url: https://git.nordgedanken.dev
+  - name: Mastodon
+    url: https://mastodon.nordgedanken.dev
 
 status-website:
   cname: status.nordgedanken.dev
